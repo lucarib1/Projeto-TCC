@@ -1,18 +1,3 @@
-/*
- * ============================================================================
- *  MEDIDOR DE CAPACIDADE DE BATERIAS
- * ============================================================================
- *  Plataforma : ESP32
- *  Arquivo    : Dis_mais_controle_v2_placa.ino
- *
- *  Periféricos:
- *    - Encoder rotativo com botão (navegação nos menus)
- *    - Display OLED SSD1306 128x64 (I2C)
- *    - Conversor ADC ADS1115 (leitura de tensão e corrente)
- *    - Sensor de temperatura DHT11 (controle do ventilador)
- * ============================================================================
- */
-
 // ============================================================================
 //  BIBLIOTECAS
 // ============================================================================
